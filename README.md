@@ -1,13 +1,13 @@
-# Foobar
+# Những lý do tại sao Klein và Fang Yuan lại là top 1 main character
 
-Foobar is a Python library for dealing with word pluralization.
+Phương nguyên
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+Tôi nhớ Phương Nguyên quá
 ```
 
 ## Usage
